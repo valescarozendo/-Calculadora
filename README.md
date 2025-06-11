@@ -1,0 +1,2 @@
+#  Calculadora
+Este programa em Python calcula a média das notas de alunos em uma disciplina, permitindo a entrada do nome e três notas para cada aluno. Utilizando estruturas de repetição e condicionais, o sistema determina se o aluno está aprovado ou reprovado com base na média mínima de 7.0. Ao final, apresenta as médias individuais e a média geral da turma, facilitando o acompanhamento do desempenho acadêmico.
